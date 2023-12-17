@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "surname": "Ivanov",
+  "forename": "Ivan",
+  "patronymic": "Ivanovich",
+  "sex": 1,
+  "passportSeries": "000",
+  "passportNumber": "000",
+  "city": "Minsk",
+  "address": "kamennaya gorka",
+  "phoneHome": "123-45-67",
+  "phoneMobile": "+375449876543",
+  "citizenship": "yes",
+  "dutyBound": 19
+}
